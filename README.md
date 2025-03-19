@@ -26,8 +26,8 @@
 ---
 
 ## 📫 How to Reach Me  
-📧 **ayushanand0395@gmail.com**  
-💼 [**LinkedIn**](https://linkedin.com/in/ayushasri95/)  
-💻 [**GitHub**](https://github.com/akstechies)  
+📧 **ayush.pythonista@gmail.com**  
+💼 [**LinkedIn**](https://linkedin.com/in/ayushasri/)  
+💻 [**GitHub**](https://github.com/ayushasri)  
 
 
