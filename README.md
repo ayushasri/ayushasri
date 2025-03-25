@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me  
 - 🔥 Experienced in **Python**, **Java**, and **Go** for backend development and microservices  
-- 🌐 Building scalable, high-performance **RESTful APIs** and **microservices** with **FastAPI**, **Flask**, **Spring Boot**, and **gRPC**  
+- 🌐 Building scalable, high-performance **RESTful APIs** and **microservices** with **FastAPI**, **Flask**, **Gin**, **Spring Boot**, and **gRPC**  
 - 🏆 Strong background in cloud infrastructure with **AWS** and **Azure**  
 - 🐳 Proficient in containerization and orchestration using **Docker** and **Kubernetes**  
 - 📊 Skilled in optimizing database performance with **PostgreSQL**, **MySQL**, **MongoDB**, and **Redis** 
@@ -14,7 +14,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-**Languages:** Python, Java  
+**Languages:** Python, Java, Go
 **Frameworks:** FastAPI, Flask, Django, Spring Boot, Quarkus  
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis  
 **Cloud:** AWS, Azure
