@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-- 🔥 Passionate Pythonista with **7+ years** of professional experience building **robust backends**, **cloud-native systems**, and **scalable APIs**
+- 🔥 Passionate Pythonista with **7+ years** of experience building **robust backends**, **cloud-native systems**, and **scalable APIs**
 - 🛠️ Specialized in **Python** using frameworks like **Django**, **Flask**, and **FastAPI**
 - 📦 Designed and scaled microservices leveraging **Celery**, **SQLAlchemy**, **Redis**, and **PostgreSQL**
 - 📊 Actively exploring **Data Engineering**, **Machine Learning**, and **Big Data** solutions using:
